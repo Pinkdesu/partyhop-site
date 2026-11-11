@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["M75QRZJ26X.com.partyhop.app"],
+        "components": [{ "/": "/signin*" }, { "/": "/auth/*" }]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["M75QRZJ26X.com.partyhop.app"]
+  }
+}
