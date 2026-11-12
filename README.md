@@ -7,6 +7,7 @@ Static website for https://partyhop.app, hosted on GitHub Pages.
 | Landing | https://partyhop.app/ |
 | Privacy Policy | https://partyhop.app/privacy |
 | Terms of Use | https://partyhop.app/terms |
+| Where to find help (alcohol support links; `#ru` for Russian) | https://partyhop.app/help |
 | Open the app (fallback of app links) | https://partyhop.app/signin |
 
 Plain HTML, no build step. Edit the files and push to `main`.
